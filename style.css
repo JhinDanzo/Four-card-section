@@ -46,6 +46,7 @@ b{
     font-weight: 100;
     letter-spacing: 0.25px;
     color: var(--granite);
+    margin-bottom: 16px;
 }
 
 .main-text{
