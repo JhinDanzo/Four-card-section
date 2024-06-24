@@ -129,6 +129,42 @@ b{
     height: 64px;
 }
 
+@media only screen and (max-width: 900px){
+    section{
+        height: 161px;
+        width: 311px;
+    }
+
+    main{
+        width: 375px;
+        height: 1360px;
+    }
+
+    .title{
+        font-size: 24px;
+        letter-spacing: 0.17px;
+    }
+
+    .cards-container{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .card{
+        height: 222px;
+        width: 311px;
+        margin-bottom: 25px;
+    }
+
+    .card-color-line{
+        width: 311px;
+    }
+
+    .card-top{
+        margin-bottom: 25px;
+    }
+}
+
 
 
 
